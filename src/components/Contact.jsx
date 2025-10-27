@@ -17,10 +17,7 @@ const Contact = () => {
                     sidharthrawat265@gmail.com
                 </a>
             </div>
-            <div className='mb-4'>
-                <FaPhone className='inline-block text-green-400 mr-2'></FaPhone>
-                <span>+9540160624</span>
-            </div>
+
             <div className='mb-4'>
                 <FaMapMarkedAlt className='inline-block text-green-400 mr-2'></FaMapMarkedAlt>
                 <span>East Delhi, Delhi, India</span>
