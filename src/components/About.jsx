@@ -17,12 +17,12 @@ const About = () => {
               I am a passionate B. Tech student with a focus on building
               modern and responsive web applications. With a strong foundation
               in core computer science domains and strong problem solving ability, 
-              I thrive to do well in th industry.
+              I thrive to do well in the industry.
             </p>
             <div className="space-y-4">
               <div className="flex items-center">
                 <label htmlFor="htmlandcss" className="w-2/12">
-                  HTML & CSS
+                  Frontend
                 </label>
                 <div className="grow bg-gray-800 rounded-full h-2.5">
                   <div
@@ -33,7 +33,7 @@ const About = () => {
               </div>
               <div className="flex items-center">
                 <label htmlFor="htmlandcss" className="w-2/12">
-                  React JS
+                  Backend
                 </label>
                 <div className="grow bg-gray-800 rounded-full h-2.5">
                   <div
@@ -44,7 +44,7 @@ const About = () => {
               </div>
               <div className="flex items-center">
                 <label htmlFor="htmlandcss" className="w-2/12">
-                  DSA
+                  Data Structures and Algorithms
                 </label>
                 <div className="grow bg-gray-800 rounded-full h-2.5">
                   <div
@@ -65,7 +65,7 @@ const About = () => {
                 <div>
                     <h3 className="text-2xl font-bold text-transparent bg-clip-text 
                 bg-gradient-to-r from-green-400 to-blue-500">
-                        3
+                        5
                     </h3>
                     <p>Projects Completed</p>
                 </div>

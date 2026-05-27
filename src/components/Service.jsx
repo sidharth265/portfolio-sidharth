@@ -3,13 +3,13 @@ import React from "react";
 const services = [
   {
     id: 1,
-    title: "Web Design",
-    description: "Creating visually appealing and user-friendly web designs.",
+    title: "Web Development",
+    description: "Building responsive and interactive web applications.",
   },
   {
     id: 2,
-    title: "Frontend Development",
-    description: "Building responsive and interactive user interfaces.",
+    title: "Software Testing",
+    description: "Manual and User Experience Testing.",
   },
   {
     id: 3,
